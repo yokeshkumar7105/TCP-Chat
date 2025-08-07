@@ -50,5 +50,21 @@ Client                Server
 
 ## Video of Simulation 
 
+https://github.com/user-attachments/assets/fea87a64-1208-40d0-9eab-12302287d670
 
+## Installation or Implementation 
+
+1. Split the terminal and compile the files separately
+```
+javac talkClient.java //run in terminal 1
+javac talkServer.java // run in terminal 2
+```
+
+2. Run the files by starting the server
+```
+java talkClient.java // in terminal 1
+java talkServer.java // in terminal 2
+```
+
+3. Simulation begins chat between client and server is established
 
