@@ -1,4 +1,6 @@
 # Simple TCP Chatting Simulation using Java
+This project is a simple text-based chat application that enables bi-directional communication between a client and a server using TCP sockets. The client and server can send and receive messages in turns, allowing real-time text messaging over a network connection. It demonstrates the fundamentals of socket programming and how two systems can communicate through a reliable, connection-oriented protocol.
+
 ## Working
 This repository contains two Java programs.
 
@@ -42,5 +44,11 @@ Client                Server
   ... until one side sends "exit"
 ```
 
+## ScreenShot for Reference
 
 <img width="1264" height="464" alt="image" src="https://github.com/user-attachments/assets/4fac6660-ca68-415b-bf31-d6acdf06d5c3" />
+
+## Video of Simulation 
+
+
+
